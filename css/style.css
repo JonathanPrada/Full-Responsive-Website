@@ -1,0 +1,90 @@
+#mainimage {
+    width: 100%;
+}
+
+#logo {
+    position: absolute;
+    top: 30px;
+    height: 80px;
+}
+
+#name h1 {
+    color: #2d3c49;
+    font-size: 500%;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+#name h4 {
+    color: #2d3c49;
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+#horizontalline {
+    width: 100%;
+    color: #7d97ad;
+    height: 5px;
+    background-color: #7d97ad;
+}
+
+#featuredwork {
+    color: #7d97ad;
+}
+
+#maintext {
+    color: #2d3c49;
+    text-transform: uppercase;
+}
+
+#maintext p {
+    color: #2d3c49;
+    text-transform: lowercase;
+}
+
+#maintext img {
+    width: 100%;
+}
+
+#buttondiv1 {
+    padding-bottom: 20px;
+}
+
+#buttondiv2 {
+    padding-bottom: 20px;
+}
+
+#footer {
+    padding-top: 20px;
+}
+
+@media (max-width: 450px) {
+    #name h1 {
+        font-size: 150%;
+    }
+    #name h4 {
+        font-size: 100%;
+    }
+    #logo {
+        position: absolute;
+        top: 10px;
+        height: 80px;
+    }
+    #featuredwork {
+        color: #7d97ad;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 700px) {
+    #name h1 {
+        font-size: 150%;
+    }
+    #name h4 {
+        font-size: 100%;
+    }
+    #logo {
+        position: absolute;
+        top: 10px;
+        height: 80px;
+    }
+}
