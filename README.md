@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-A design mockup that was provided with a set of requirements. This is how the finished product needed look like, the requirements described what it should do. Typically Clients provide designs that UX Designers or Developers can recreate on wireframing tools.
+A design mockup that was provided with a set of requirements. Specific styling given, spacing and fonts. The requirements described what the site should do.
 
 ## FILES
 
