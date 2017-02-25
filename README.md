@@ -12,9 +12,9 @@ Download or git clone.
 
 ## CONFIGURATION
 
-/css
-/img
-/js
+/css <br>
+/img <br>
+/js <br>
 index.html
 
 ## RUNNING
